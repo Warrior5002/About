@@ -26,11 +26,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flate&logo=react&logoColor=61DAFB)
 ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 ---
 
 # 𝐶𝑜𝑛𝑛𝑒𝑐𝑡 𝑊𝑖𝑡ℎ 𝑀𝑒 !<img align="center" src="https://user-images.githubusercontent.com/106914208/213799858-a190b73c-4c67-41af-ade4-028f34ac1611.gif" width="100">
-| [<img src="https://user-images.githubusercontent.com/106914208/213802271-4489309a-a739-46ad-8c1d-d93e64a3f14b.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/akash-bisoyi-0905a41a9)| [<img src="https://user-images.githubusercontent.com/106914208/213802286-054522d7-e3c7-4946-841d-b48ac53dee53.svg" alt="instagram logo" width="32">](https://www.instagram.com/bisoyi8761/)| [<img src="https://user-images.githubusercontent.com/106914208/213802301-3f4eb45f-2969-4d72-b92f-498c90cb5f10.svg" alt="Hackerrank logo" width="34">](https://www.hackerrank.com/) | [<img src="https://user-images.githubusercontent.com/106914208/213802308-803c66fd-b3da-4f55-a0ab-1a82edf22ce7.svg" alt="Gmail logo" height="32">](mailto:abisoyi472@gmail.com)
+| [<img src="https://user-images.githubusercontent.com/106914208/213802271-4489309a-a739-46ad-8c1d-d93e64a3f14b.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/akash-bisoyi-0905a41a9)| [<img src="https://user-images.githubusercontent.com/106914208/213802286-054522d7-e3c7-4946-841d-b48ac53dee53.svg" alt="instagram logo" width="32">](https://www.instagram.com/bisoyi8761/)| [<img src="https://user-images.githubusercontent.com/106914208/213802301-3f4eb45f-2969-4d72-b92f-498c90cb5f10.svg" alt="Twitter logo" width="34">]([https://twitter.com/AkashBisoy5002]) | [<img src="https://user-images.githubusercontent.com/106914208/213802308-803c66fd-b3da-4f55-a0ab-1a82edf22ce7.svg" alt="Gmail logo" height="32">](mailto:abisoyi472@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|
